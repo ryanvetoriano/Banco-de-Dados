@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.InheritanceRelation" name="Hierarchy_5" directorySegmentName="seg_0" id="9224233C-E698-294C-1E0D-A99DAC031F6B">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-04-04 12:48:24 UTC</createdTime>
+<ownerDesignName>Modelo Lógico - Oracle Data Modeler</ownerDesignName>
+<engineerTo>
+<item key="A3097FF9-36B0-1E04-EC90-4389FDDC60E8" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Super Type</nameOnSource>
+<nameOnTarget>Sub Type</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceEntity>745C27FC-DCC8-FB04-EDA8-EC7EB508FA0E</sourceEntity>
+<targetEntity>0077E279-77CE-B23E-3590-B4E11416404B</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

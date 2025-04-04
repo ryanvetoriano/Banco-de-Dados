@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo Lógico - Oracle Data Modeler" id="668A91F2-35B0-7444-510C-B2A54993AF44" version="3.5">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-04-04 11:43:29 UTC</createdTime>
+<ownerDesignName>Modelo Lógico - Oracle Data Modeler</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>668A91F2-35B0-7444-510C-B2A54993AF44</designId>
+</OSDM_Design>
